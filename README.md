@@ -3,13 +3,12 @@
    This is a web app built using Streamlit that predicts future energy production based on linear regression models trained on historical data for solar and wind energy.
 
 2. DATA SOURCES USED
-
-    The app uses the following datasets for training the models:
-    - [Solar Energy Production Data (30 Years)](solar_energy_production_30_years.csv)
-    - [Wind Energy Production Data (30 Years)](wind_energy_production_30_years.csv)
+   
+   The app uses the following datasets for training the models:
+   - [Solar Energy Production Data (30 Years)](solar_energy_production_30_years.csv)
+   - [Wind Energy Production Data (30 Years)](wind_energy_production_30_years.csv)
   
 3.MODEL TRAINING WITH SCIKIT-LEARN
-  
      The Energy Prediction App utilizes the powerful machine learning library Scikit-Learn, to train linear regression models for forecasting both solar and wind energy production.
     -Linear regression is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data.
     -Linear regression is chosen for its simplicity and interpretability, making it a suitable choice for predicting energy production based on historical trends.
