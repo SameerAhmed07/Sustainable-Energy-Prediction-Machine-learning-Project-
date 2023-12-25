@@ -28,6 +28,7 @@
       The linear regression models are trained on the historical data using the fit method, which estimates the coefficients of the linear equation.
   
   4.4 PREDICTION:
+  
       After training, the models are capable of predicting future energy production for a specified year using the predict method.
       - # Predict energy production for solar
         predicted_solar_energy = solar_model.predict([[selected_year]])
