@@ -29,7 +29,6 @@ quotes = [
 # Streamlit web app
 st.set_page_config(
     page_title="Energy Prediction App",
-    page_icon="⚡️",
     layout="wide"
 )
 
