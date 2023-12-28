@@ -1,4 +1,4 @@
-1. SUSTAINABLE ENERGY PREDICTION WEB App
+1. SUSTAINABLE ENERGY PREDICTION WEB APP
 
    This is a web app built using Streamlit that predicts future energy production based on linear regression models trained on historical data for solar and wind energy.
 
