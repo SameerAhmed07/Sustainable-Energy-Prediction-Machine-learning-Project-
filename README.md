@@ -60,4 +60,7 @@
   
    At the end of each prediction, a random inspirational quote related to renewable energy is displayed.
 
+
+CHECK OUT HERE : https://sustainableenergyprediction.streamlit.app/
+
    
